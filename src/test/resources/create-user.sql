@@ -1,0 +1,1 @@
+INSERT IGNORE INTO USER (password, username) values ('$2a$10$lnhdSulLLHY3qUEeGdZJ4Ov1gF7i0jAhGWf32.FOyC/xJ9d/UZFDa', 'John')

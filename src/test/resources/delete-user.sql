@@ -1,0 +1,1 @@
+DELETE FROM USER WHERE username="Jhon";
